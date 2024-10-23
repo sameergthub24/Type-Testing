@@ -21,4 +21,5 @@
  - **Font Awesome :** For the settings button icon.
  - **Google Fonts :** Used for typography (New Amsterdam and Syne Mono fonts).
 
+ ## Contribution :v:
 **Feel free to copy the code and use, Contact me to have a contribution in your project**     [Email](mailto:sameerjune24@gmail.com)  :+1:
